@@ -1,0 +1,33 @@
+.header{
+    text-align: center;
+}
+.content{
+    margin-left:300px;
+    .box{
+       
+        border: black;
+        border-width: 2px;
+        border-style:solid ;
+        display:inline-block ;
+        width: 220px;
+      
+        
+       
+   } 
+  
+
+}
+h3{
+    text-align: center;
+}
+.contact{
+    background-color: black;
+    color: white;
+    border-style: solid;
+}
+ 
+.details{
+    text-align: center;
+    
+  
+}
